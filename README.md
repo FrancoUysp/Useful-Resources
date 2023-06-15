@@ -15,5 +15,6 @@ A collection of useful links organized by categories.
 - [Useful .gitignore boilerplaite](https://www.toptal.com/developers/gitignore)
 
 ## Data Science
+- [Basics of Modelling]https://allmodelsarewrong.github.io/
 
 
